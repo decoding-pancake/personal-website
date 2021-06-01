@@ -18,7 +18,7 @@
 
 .u-section-1 .u-text-1 {
   font-family: "Caesar Dressing";
-  margin: 98px -103px 60px 555px;
+  margin: 135px -156px 60px 608px;
 }
 
 @media (max-width: 1199px) {
@@ -39,7 +39,7 @@
   .u-section-1 .u-text-1 {
     position: relative;
     font-weight: 400;
-    margin-left: 455px;
+    margin-left: 508px;
   }
 }
 
@@ -53,7 +53,7 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-left: 345px;
+    margin-left: 398px;
   }
 }
 
@@ -67,7 +67,7 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-left: 255px;
+    margin-left: 308px;
   }
 }
 
@@ -278,7 +278,7 @@
 
 .u-section-3 .u-container-layout-4 {
   padding-left: 0;
-  padding-right: 1px;
+  padding-right: 0;
 }
 
 .u-section-3 .u-icon-3 {
@@ -291,7 +291,13 @@
 
 .u-section-3 .u-text-4 {
   font-size: 1.125rem;
-  margin: 16px 0 0;
+  margin: 16px 1px 0;
+}
+
+.u-section-3 .u-text-5 {
+  font-style: italic;
+  font-size: 1.125rem;
+  margin: -32px 1px 0;
 }
 
 .u-section-3 .u-layout-cell-5 {
@@ -365,6 +371,16 @@
   .u-section-3 .u-container-layout-4 {
     padding-left: 25px;
     padding-right: 25px;
+  }
+
+  .u-section-3 .u-text-4 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-text-5 {
+    margin-right: 0;
+    margin-left: 0;
   }
 
   .u-section-3 .u-layout-cell-5 {
